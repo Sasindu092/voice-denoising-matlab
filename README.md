@@ -18,4 +18,3 @@ The Signal-to-Noise Ratio (SNR) improved from -20.44 dB to -14.52 dB after filte
 - `main.m` – MATLAB code for reading, filtering, and analyzing the audio  
 - `voice_noisy.wav` – Original noisy audio  
 - `voice_filtered.wav` – Output after filtering  
-- `report.pdf` – Full technical report
